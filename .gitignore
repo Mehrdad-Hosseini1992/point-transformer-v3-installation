@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Conda
+.conda/
+conda-bld/
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.log
+*.cache
+.DS_Store
