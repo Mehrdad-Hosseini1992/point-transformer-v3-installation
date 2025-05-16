@@ -38,5 +38,4 @@ python -c "import torch; import torch_scatter; import torch_cluster; import torc
 
 Once installed, navigate to your Point Transformer v3 repository (e.g., `~/Models/Pointcept`) and follow its documentation to prepare datasets and run training or inference scripts.
 
-## 
->>>>>>> 092f04e (Initial commit: Add installation guide for Point Transformer v3)
+
